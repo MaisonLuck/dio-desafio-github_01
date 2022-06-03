@@ -1,0 +1,29 @@
+Comandos para navegar dentro do windows "cmd".
+
+1- CD / ==> navegar entre as pastas do disco C:
+2- DIR ==> listar as pastas do disco
+3- MKDIR ==> criar diretorio
+4- DEL ==> deletar arquivo
+5- RMDIR ==> remover todos os arquivos de dentro do repositorio
+6- CD .. ==> voltar uma pasta anterior
+7- ==> cls ou clear ==> comando para limpar a tela "cmd ou git bash
+8- TAB ==> serve para autocompletar
+9-arrow to up ==> serve para voltar ao comando anterior digitado no terminal
+10- (-A)==> serve para mostrar pagina oculta.
+------------------------------------------------------------------------------
+SHA1 ==> a sigla SHA significa secure  hash algorithm. algoritmo de hash seguro
+é um conjunto de funcoes hash criptograficas projetada pela nsa agencia de seguranca
+dos eua.
+a encriptografia gera um conjunto de characteres identificados por 40 digitos
+------------------------------------------------------------------------------
+tipos basicos dos objetos responsaveis pelo versionamento
+1 blobs- contem, tipos do objetos/tamanho do arquivo/contem metadados do git
+----------
+2 trees- armazenam os blobs.
+----------
+3 commit- objeto que vai juntar tudo e, aponta para as trees, parente,autor, 
+mensagem, timestamp.
+-------------------------------------------------------------------------------
+GIT INIT- inicia o repositorio do git
+GIT ADD - da inicio ao versionamento, move os arquivos
+GIT COMMIT-  cria o primeiro repositorio
